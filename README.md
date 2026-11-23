@@ -1,7 +1,7 @@
 # Mini Paint (C++ / OpenGL / Dear ImGui)
-Andrés Felipe Garcia Camacho
+Andrés Felipe Garcia Camacho//////
 6014398
-link del video explicativo: https://canva.link/gk01pej3am2n044
+/////link del video explicativo: [https://canva.link/gk01pej3am2n044](https://drive.google.com/file/d/1g-bBytXvr4KtuGme2g6-czPTDy-zZSak/view?usp=sharing)
 
 Editor de dibujo sobre una cuadrícula de píxeles hecho en C++ con **OpenGL 3.3 (core)**, **GLFW**, **GLAD** y **Dear ImGui**. Además de las herramientas básicas de un paint, implementa a mano los algoritmos clásicos de gráficos por computador: **línea de Bresenham**, **círculo de punto medio** (ambos con parámetro de decisión), **relleno por inundación**, y **rotación y traslación** de figuras con senos y cosenos.
 
